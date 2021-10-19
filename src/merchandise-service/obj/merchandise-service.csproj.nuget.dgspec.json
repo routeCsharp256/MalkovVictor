@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\OzonEdu\\git\\git\\merchandise-service\\merchandise-service\\src\\merchandise-service\\merchandise-service.csproj": {}
+    "D:\\OzonEdu\\git\\git\\merchandise-service\\src\\merchandise-service\\merchandise-service.csproj": {}
   },
   "projects": {
-    "D:\\OzonEdu\\git\\git\\merchandise-service\\merchandise-service\\src\\merchandise-service\\merchandise-service.csproj": {
+    "D:\\OzonEdu\\git\\git\\merchandise-service\\src\\merchandise-service\\merchandise-service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\OzonEdu\\git\\git\\merchandise-service\\merchandise-service\\src\\merchandise-service\\merchandise-service.csproj",
+        "projectUniqueName": "D:\\OzonEdu\\git\\git\\merchandise-service\\src\\merchandise-service\\merchandise-service.csproj",
         "projectName": "merchandise-service",
-        "projectPath": "D:\\OzonEdu\\git\\git\\merchandise-service\\merchandise-service\\src\\merchandise-service\\merchandise-service.csproj",
+        "projectPath": "D:\\OzonEdu\\git\\git\\merchandise-service\\src\\merchandise-service\\merchandise-service.csproj",
         "packagesPath": "C:\\Users\\EGIPOP\\.nuget\\packages\\",
-        "outputPath": "D:\\OzonEdu\\git\\git\\merchandise-service\\merchandise-service\\src\\merchandise-service\\obj\\",
+        "outputPath": "D:\\OzonEdu\\git\\git\\merchandise-service\\src\\merchandise-service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\EGIPOP\\AppData\\Roaming\\NuGet\\NuGet.Config",
